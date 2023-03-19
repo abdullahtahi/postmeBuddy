@@ -19,7 +19,7 @@ function Navbar(props) {
             <LocalPostOfficeIcon />
           </Box>
           <Box component="div" className={styles.systemName}>
-            <p>POST ME BUDDY</p>
+            <p>POST ME BUDDYS</p>
           </Box>
         </Toolbar>
       </AppBar>
